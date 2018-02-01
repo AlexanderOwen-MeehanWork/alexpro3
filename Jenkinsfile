@@ -2,5 +2,5 @@
 
 @Library('MicroserviceBuilder') _
 microserviceBuilderPipeline {
-  image = 'alexpro'
+  image = 'alexpro3'
 }
