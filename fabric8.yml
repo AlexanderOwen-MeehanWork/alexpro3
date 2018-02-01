@@ -1,0 +1,10 @@
+---
+buildName: "alexpro3"
+links:
+  Git: "https://github.com/AlexanderOwen-MeehanWork/alexpro3.git"
+  Job: "http://10.0.0.172:80/job/alexpro3"
+environments:
+  Testing: "default-testing"
+  Staging: "default-staging"
+  Production: "default-prod"
+useLocalFlow: true
